@@ -103,7 +103,7 @@ ul > li {
 }
 
 #container {
-    width: 85%;
+    width: 100%;
     margin: auto;
 }
 
@@ -128,7 +128,7 @@ td, th, table {
 
 footer {
     text-align: center;
-    padding: 40px 0px;
+    padding: 16px 0px;
     color: white;
     background-color: brown;
 }
